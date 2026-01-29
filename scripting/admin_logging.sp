@@ -5,7 +5,7 @@ public Plugin myinfo =
 	name = "Admin loggin",
 	author = "vIr-Dan",
 	description = "Logs to admin_STEAMID",
-	version = "1.0",
+	version = "1.1.3",
 	url = "http://dansbasement.us"
 };
 
